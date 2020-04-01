@@ -13,4 +13,4 @@ Once finished, a `csv` will be created with all the gathered details.
 
 Disclaimer
 ----------
-Use at your own risk. This repository/project is intended for personal/educational purposes only.
+Use at your own risk. This repository/project is intended for personal/educational purposes only. Scripts provided AS-IS.
