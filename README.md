@@ -8,4 +8,9 @@ conda env create -f environment.yml
 conda activate bidtoart
 python3 main.py
 ```
-A `csv` will be created with all the gathered details.
+
+Once finished, a `csv` will be created with all the gathered details.
+
+Disclaimer
+----------
+This repository/project is intended for personal/educational purposes only.
