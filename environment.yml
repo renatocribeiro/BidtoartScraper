@@ -1,0 +1,7 @@
+name: bidtoart
+dependencies:
+- python>=3.5
+- conda-forge::bs4
+- pandas
+- numpy
+- requests>=2.22.0
